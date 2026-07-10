@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Passion Studio",
+    "price": 450,
+    "category": "Typography",
+    "image": "assets/images/passion_studio.jpg",
+    "description": "A bold custom logo rug in black with hand-tufted white bubble lettering spelling 'PASSION.' Clean, high-contrast design perfect as a studio or brand statement piece."
+  },
+  {
+    "id": 2,
+    "name": "BMW Rug",
+    "price": 450,
+    "category": "Portrait",
+    "image": "assets/images/bmw_rug.jpg",
+    "description": "A detailed hand-tufted portrait of a BMW in black and grey tones, capturing sharp body lines, blue-tinted headlights, and fine shading. A striking custom piece for car enthusiasts."
+  },
+  {
+    "id": 3,
+    "name": "KoobFul Rug",
+    "price": 450,
+    "category": "Calligraphy",
+    "image": "assets/images/koobful_rug.jpg",
+    "description": "A flower-shaped rug in soft cream with flowing maroon Arabic calligraphy and delicate pink floral accents, featuring the nested 'Koobful' wordmark. Romantic and detailed custom brand piece."
+  },
+  {
+    "id": 4,
+    "name": "25th Birthday Rug",
+    "price": 450,
+    "category": "Celebration",
+    "image": "assets/images/25th_birthday_rug.jpg",
+    "description": "A heart-shaped rug in pastel pink and lavender with a checkered pattern, maroon trim, and delicate bow details framing a hand-tufted 'twenty five' script. A sweet custom milestone piece."
+  },
+  {
+    "id": 5,
+    "name": "Patience Rug",
+    "price": 450,
+    "category": "Calligraphy",
+    "image": "assets/images/patience_rug.jpg",
+    "description": "A hand-tufted rug in warm tan featuring flowing green Arabic calligraphy of a Quranic verse on patience, with delicate white and green accent details. A meaningful custom piece with spiritual significance."
+  },
+  {
+    "id": 6,
+    "name": "Bunduq Rug",
+    "price": 450,
+    "category": "Calligraphy",
+    "image": "assets/images/bunduq_rug.jpg",
+    "description": "A circular rug in vibrant teal featuring hand-tufted cream Arabic calligraphy. Simple, elegant, and rich in color contrast — a personalized custom name piece."
+  }
+]
